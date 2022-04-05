@@ -4,7 +4,8 @@ This repository contains the replication kit for our manuscript [Differential te
 
 ## Contents
 
-- The [evaluation notebook](eval_testresults.ipynb) with the code that gives us an overview of the test results.
+- The [Excel sheet](Feasibility-and-Potential.xlsx) with the lists of algorithms and feasible combinations we identified through the first two phases of our study.
+- The [evaluation notebook](eval_testresults.ipynb) with the code that gives us an overview of the test results of the third phase of our study.
 - The [data folder](data) with the deviations and statistical analysis for each pair of algorithms on each data set, as well as the concrete predictions on each data set. 
 - The [generated tests](tests) for all frameworks. 
 - The [source code](atoml-master.zip) of [atoml](https://github.com/sherbold/atoml), the tool we used to generate the tests including the YAML description required to generate the tests. The archive contains the source code of atoml at [commit c670611](https://github.com/sherbold/atoml/commit/c670611310124f06f2b1310474be9cefe5c07370).
